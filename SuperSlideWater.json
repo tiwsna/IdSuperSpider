@@ -1,9 +1,9 @@
 
 	{
 "version": "test v1",
-	"iron": "badal li ltaht ila bghiti iron",
+	"iron": "",
 	
-	"ironId": "",
+	"ironId": "ca238fc5",
 	"ironBanner": "DefaulBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
