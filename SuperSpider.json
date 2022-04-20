@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "137e24039",
+	"ironId": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
@@ -11,10 +11,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "",
-	"interId": "",
-	"bannerId": "",
-	"rewardadmob": "",
+	"appid": "137e24039",
+	"appbanner": "DefaultBanner",
+	"appinter": "DefaultInterstitial",
+	"apprewd": "",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
