@@ -1,0 +1,31 @@
+
+	{
+"version": "test v1",
+	"iron": "Ad",
+	
+	"ironId": "",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "Ad",
+
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+	"interId": "ca-app-pub-3940256099942544/1033173712",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+
+	"facebook": "Ad",
+	
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
+
+	"unity": "Ad",
+	
+	"UnityAppId": "3913829",
+	"UnityInter": "video",
+	"Unitybanner": "banner",
+	"unityreward": "rewardedVideo"
+}
